@@ -1,0 +1,3 @@
+#Example ignoring files
+/.idea/
+/blog/migrations
